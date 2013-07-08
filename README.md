@@ -1,8 +1,6 @@
 # fis-parser-jade
 
-> **WARNING** : Node.js ``v0.8.12`` required!!!
-
-A parser plugin for fis to compile sass file.
+A parser plugin for fis to compile jade file.
 
 ## usage
 
@@ -23,4 +21,3 @@ fis.config.merge({
         }
     }
 });
-```

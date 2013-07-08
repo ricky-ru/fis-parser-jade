@@ -12,12 +12,12 @@ A parser plugin for fis to compile jade file.
 fis.config.merge({
     roadmap : {
         ext : {
-            md : 'html'
+            jade : 'html'
         }
     },
     modules : {
         parser : {
-            md : 'jade'
+            jade : 'jade'
         }
     }
 });

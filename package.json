@@ -1,15 +1,14 @@
 {
-    "name" : "fis-parser-jade",
-    "description" : "A parser plugin for fis to compile jade file.",
-    "version" : "0.0.1",
-    "author" : "FIS Team <fis@baidu.com>",
-    "homepage" : "http://fis.baidu.com/",
-    "keywords": [ "fis", "jade" ],
-    "main" : "index.js",
-    "engines" : {
-        "node" : ">=0.8.12"
-    },
-    "dependencies" : {
-        "jade" : ">=0.27.6"
-    }
+  "name"            : "fis-parser-jade",
+  "description"     : "A parser plugin for fis to compile jade file.",
+  "homepage"        : "http://fis.baidu.com/",
+  "keywords"        : ["fis", "jade"],
+  "author"          : "luyujun <luyujun87@gmail.com>",
+  "repository"      : {"type": "git", "url": "git://github.com/luyujun/fis-parser-jade.git"},
+  "main"            : "index.js",
+  "version"         : "0.0.1",
+  "engines"         : {"node": ">=0.8.12"},
+  "dependencies"    : {"jade": ">=0.27.6"},
+  "devDependencies" : {"fis": "1.0.1"},
+  "licenses"        : "MIT"
 }

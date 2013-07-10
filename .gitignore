@@ -1,11 +1,15 @@
-/.idea
 node_modules/
 
 .DS_Store
-*.db
-*.bak
-*.tmp
-*.cmd
-~*
-
-upload.py
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.swp
+*.swo
+testing
+test.js
+.idea

@@ -4,6 +4,7 @@ A parser plugin for fis to compile jade file.
 
 ## usage
 
+    $ npm install -g fis
     $ npm install -g fis-parser-jade
     $ vi example/fis-conf.js
 
